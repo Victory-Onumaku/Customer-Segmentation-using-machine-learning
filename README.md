@@ -3,8 +3,8 @@
 In marketing, market segmentation is the process of dividing a broad consumer or business market, normally consisting of existing and potential customers, into sub-groups of consumers based on some type of shared characteristics.   <br> 
 We will be using Machine Learning to perform Customer Segmentation.
 
-Time Line of the project:
-. Importing Libraries
-. Data Analysis
-. Data Preprocessing'
-. Model Building
+Time Line of the project: <br> 
+. Importing Libraries <br> 
+. Data Analysis <br> 
+. Data Preprocessing <br> 
+. Model Building <br> 
